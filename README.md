@@ -4,8 +4,6 @@ Portfólio totalmente responsivo usando apenas HTML e CSS, com uma bela interfac
 
 Lembrando que estarei sempre atualizando-o.
 
-link 
-
 
 https://felpsg.github.io/portfolio-desenvolvedor/
 
